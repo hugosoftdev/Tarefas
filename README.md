@@ -1,7 +1,7 @@
 # Tarefas
 ## Um projeto overkill para gerenciar tarefas pelo terminal
 
-dependencias: boto3
+dependencias: boto3, aws account, firebaseDB account
 
 Com apenas um comando: python3 init.py
 
