@@ -9,6 +9,7 @@ você configura uma baita de uma infraestrutura na amazon para que seu gerenciam
 
 funcionalidades:
   - Load Balancing
+  - HA, healthchecks que garantem que o número de instancias desejadas estejam sempre disponíveis
   - Stateless (usando Firebase no webserver)
   - Número de instancias configuravel
   
